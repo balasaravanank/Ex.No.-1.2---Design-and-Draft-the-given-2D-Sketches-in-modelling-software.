@@ -20,7 +20,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198232771-48e6582d-4410-430a-a9d4-70e400255580.png)
  
  5.	Use inspect feature to measure the dimensions of sketch.
- 
+
  ![image](https://user-images.githubusercontent.com/113594316/198232845-1608e574-732c-44b2-9921-39e920b70e2e.png)
  
  6.	After finishing the sketch use finish sketch option to finalize the sketch.
